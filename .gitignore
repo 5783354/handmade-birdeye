@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+*.mjpeg
+*.mpg4
+*.pth
+.idea
+
